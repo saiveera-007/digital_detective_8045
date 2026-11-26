@@ -1,10 +1,10 @@
-# Mission 1 - ***Know your computer***
+# 1. Mission 1 - ***Know your computer***
 
-## Task/Objective 
+## 2. Task/Objective 
 
 Explain how a computer handles input, processing, output, and storage; identify hardware and software; and describe everyday computer systems.
 
-## Work completed 
+## 3. Work completed 
 
 ### Task 1.1 — IPOS example: typing and saving a document
 
@@ -36,15 +36,38 @@ Explain how a computer handles input, processing, output, and storage; identify 
 | ***Traffic signal*** | Controls traffic at a road junction. | Timer or vehicle sensor | **Red, yellow, or green light** |
 | ***Ticket machine*** | Sells tickets for travel or events. | Destination choice and payment | **Printed ticket** |
 
-##  My understanding
+## 4. Commands / tools used
+
+- VS Code — used to write and format the tables.
+- Git — used to stage, commit, and push the Mission 1 work.
+
+
+## 5. My understanding
 
 I learned that a computer takes input, processes it, produces output, and can store the result. Hardware is the physical parts of a computer, while software is the programs it runs. Everyday systems like ATMs also use input and output to do a job.
 
-##  Difficulties faced
+## 6. Difficulties faced
 
 At first, I found it difficult to understand how to format tables in a Markdown README.
 
-##  How I resolved them
+## 7. How I resolved them
 
 I used a other's submitted repo's table as an example to learn how the rows and columns are written, then added my IPOS, hardware/software, and computer-system examples.
 
+## 8. Evidence / files
+
+- `mission-01-computer-basics/README.md`
+
+## 9. Commit details
+
+- `be5a3da (HEAD -> main, origin/main) Updating readme.md file 2nd time`
+- `02542d8 Updating the mission 1 readme.md file`
+- `8fadeb4 Added the 3rd table`
+- `8479b0d Updating my 2nd table format`
+- `82b3679 Second table the second table`
+- `2f8eb7a Seeing how the table looks`
+- `b3e952c Update Mission 0 documentation 2nd time`
+- `4f5e843 Update Mission 0 documentation`
+- `5fcc4fe Complete Mission 0 setup documentation`
+- `27a91d3 Improve project README`
+- `456eac1 Set up Digital Detective mission structure`
