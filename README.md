@@ -1,16 +1,13 @@
-#                DIWALI INDEPENDENT LEARNING ASSIGNMENT
-#                        THE DIGITAL DETECTIVE
-
-## --> This repository contains my work for the Digital Detective assignment.
+# DIWALI INDEPENDENT LEARNING ASSIGNMENT : ***THE DIGITAL DETECTIVE***
 
 ## Description
 
 ***This is the assignment we got for diwail , so that we have a practise of our basic of CLI ,git and github topics and to explore more.Hence this repository contains my work for the Digital Detective assignment. I explored computer basics, Terminal, Python, Git and networking through a series of missions.***
 
 ## Student Description
-**NAME** : *Saisasai Veeraballe*
-**CAMPUS** : *S-Svasya Deemed to be University*
-**GITHUB REPOSITORY** : *digital_detective_8045*
+- **NAME** : *Saisasai Veeraballe*
+- **CAMPUS** : *S-Svasya Deemed to be University*
+- **GITHUB REPOSITORY** : *digital_detective_8045*
 
 ## Missions
 
