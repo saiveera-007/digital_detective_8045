@@ -22,4 +22,13 @@
 | ***Visual Studio Code*** | Software | Application | **Used to create and edit files.** |
 | ***Terminal*** | Software | Application | **Used to enter commands.** |
 
+### Task 1.3 — Computer systems around you
+
+| **System** | **Main purpose** | **One input** | **One output** |
+|---|---|---|---|
+| ***ATM*** | Lets people withdraw money or check an account. | Bank card and PIN | **Cash or account information on screen** |
+| ***Traffic signal*** | Controls traffic at a road junction. | Timer or vehicle sensor | **Red, yellow, or green light** |
+| ***Ticket machine*** | Sells tickets for travel or events. | Destination choice and payment | **Printed ticket** |
+
+
 
