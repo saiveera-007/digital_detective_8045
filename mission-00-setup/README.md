@@ -1,18 +1,41 @@
 # Mission 0 — Repository and Workspace Setup
 
 ## 1. Mission title
-Mission 0 : Repository and Workspace Setup
+
+- Mission 0 : Repository and Workspace Setup
 
 ## 2. Task / objective
-Set up a project folder and GitHub repository for the Digital Detective assignment.
+
+- Set up a project folder and GitHub repository for the Digital Detective assignment.
 
 ## 3. Work completed
-I created the project folder `digital_detective_8045` and the mission folders and starter files. I also created a root README and an evidence folder.
+
+- I created the project folder `digital_detective_8045` and the mission folders and starter files. I also created a root README and an evidence folder.
 
 ## 4. Commands / tools used
+
 - `python3 --version` — checked the Python version: 3.15.2.
+
 - `git --version` — checked the Git version: 2.56.0.
-- Git and GitHub — initialized the local repository, saved the files in a commit, connected it to GitHub, and pushed the commit.
+
+- `Git and GitHub` — initialized the local repository, saved the files in a commit, connected it to GitHub, and pushed the commit.
+
+- `git init` — initialized Git in your project folder.
+
+- `git branch -M main` — named your main branch main.
+
+- `git status` — checked which files were changed or staged.
+
+- `git add . and git add <file>` — staged files for a commit.
+
+- `git rm --cached .DS_Store` — removed `.DS_Store` from staging while keeping it on your computer.
+
+- `git commit -m "..."` — saved staged files as a checkpoint.
+
+- `git remote add origin <repository-URL>` — connected your local project to the GitHub repository.
+
+- `git push -u origin main and git push` — uploaded commits to GitHub.
+git log  — displayed the commit history.
 
 ## 5. My understanding
 
@@ -34,4 +57,7 @@ I asked questions to AI and it helped me understanding the Git steps and followe
 - `mission-05-numbers-data/number_converter.py`
 
 ## 9. Commit details
-The initial setup was committed as “Set up Digital Detective mission structure” and pushed to GitHub. This Mission 0 README still needs to be committed and pushed.
+
+`5fcc4fe (HEAD -> main, origin/main) Complete Mission 0 setup documentation`
+`27a91d3 Improve project README`
+`456eac1 Set up Digital Detective mission structure`
