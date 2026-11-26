@@ -9,6 +9,8 @@
 | ***OUTPUT*** | The typed words appear on the screen | **Screen/Monitor** |
 | ***STORAGE*** | I save the document so I can open it later. | **SSD/Hardrive** |
 
+### Task 1.2 — Hardware and software
+
 | **Item/Software Name** | **Hardware or Software ?** | **Software Type (if applicable)** | **Purpose** |
 |------------------------|----------------------------|-----------------------------------|-------------|
 | ***Keyboard*** | Hardware | Not applicable | **Used to enter text and commands.** |
