@@ -58,6 +58,6 @@ I asked questions to AI and it helped me understanding the Git steps and followe
 
 ## 9. Commit details
 
-`5fcc4fe (HEAD -> main, origin/main) Complete Mission 0 setup documentation`
-`27a91d3 Improve project README`
-`456eac1 Set up Digital Detective mission structure`
+- `5fcc4fe (HEAD -> main, origin/main) Complete Mission 0 setup documentation`
+- `27a91d3 Improve project README`
+- `456eac1 Set up Digital Detective mission structure`
