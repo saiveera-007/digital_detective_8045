@@ -1,4 +1,10 @@
-# Work completed 
+# Mission 1 - ***Know your computer***
+
+## Task/Objective 
+
+Explain how a computer handles input, processing, output, and storage; identify hardware and software; and describe everyday computer systems.
+
+## Work completed 
 
 ### Task 1.1 — IPOS example: typing and saving a document
 
@@ -7,7 +13,7 @@
 | ***INPUT*** | Typing the words/sentences | **Keyboard** |
 | ***PROCESSING*** | The computer handles the keystrokes and keeps the text available while I work. | **CPU and memory(RAM)** |
 | ***OUTPUT*** | The typed words appear on the screen | **Screen/Monitor** |
-| ***STORAGE*** | I save the document so I can open it later. | **SSD/Hardrive** |
+| ***STORAGE*** | I save the document so I can open it later. | **SSD/Hard drive** |
 
 ### Task 1.2 — Hardware and software
 
@@ -30,5 +36,15 @@
 | ***Traffic signal*** | Controls traffic at a road junction. | Timer or vehicle sensor | **Red, yellow, or green light** |
 | ***Ticket machine*** | Sells tickets for travel or events. | Destination choice and payment | **Printed ticket** |
 
+## 5. My understanding
 
+I learned that a computer takes input, processes it, produces output, and can store the result. Hardware is the physical parts of a computer, while software is the programs it runs. Everyday systems like ATMs also use input and output to do a job.
+
+## 6. Difficulties faced
+
+At first, I found it difficult to understand how to format tables in a Markdown README.
+
+## 7. How I resolved them
+
+I used a other's submitted repo's table as an example to learn how the rows and columns are written, then added my IPOS, hardware/software, and computer-system examples.
 
