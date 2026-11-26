@@ -16,7 +16,7 @@ I created a `terminal-practice` folder in my assignment repository. Inside it, I
 | ***Move to parent folder*** | `cd ..` | **Moves up one folder; `pwd` showed the changed location.** |
 | ***Create a practice folder*** | `mkdir terminal-practice` | **Creates a new folder in the current location.** |
 | ***Create an empty file*** | `touch original.txt` | **Creates an empty text file.** |
-| ***Add text to a file*** | `echo "..." > original.txt` and `echo "..." >> original.txt` | **`>` writes the first line; `>>` adds another line at the end.** |
+| ***Add text to a file*** | `echo "This is my practice file." > original.txt` and `echo "This is my second line" >> original.txt` | **`>` writes the first line; `>>` adds another line at the end.** |
 | ***Copy a file*** | `cp original.txt backup.txt` | **Creates a separate copy and leaves the original in place.** |
 | ***Rename the copy*** | `mv backup.txt renamed-backup.txt` | **Renames the copy because both names are in the same folder.** |
 | ***Display file contents*** | `cat original.txt` | **Shows the two lines in the file.** |
@@ -49,4 +49,5 @@ I learned what each part of the commands meant, then ran them and observed the r
 
 ## 9. Commit details
 
-Commit message: Complete Terminal and file management mission.
+Commit message: Complete Terminal and file management mission.  
+Pushed to GitHub.
