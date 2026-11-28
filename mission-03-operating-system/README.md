@@ -1,4 +1,4 @@
-### Task 3.4 — *** Operating-system responsibilities ***
+### Task 3.4 — ***Operating-system responsibilities***
 
 | **Responsibility** | **What it means** | **Example** |
 |---|---|---|
