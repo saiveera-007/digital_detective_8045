@@ -1,4 +1,4 @@
-# 1. Mission 5 - ***Numbers and Dgata***
+# 1. Mission 5 - ***Numbers and Data***
 
 ## 2. Task/Objective
 
