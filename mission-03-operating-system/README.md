@@ -1,6 +1,6 @@
 # Mission 3 - ***Understand the operating system***
 
-### Task 3.1 — System observations
+### Task 3.1 — ***System observations***
 
 | **Information explored** | **What it tells me** | **My privacy-safe observation** |
 |---|---|---|
@@ -9,6 +9,9 @@
 | ***Storage*** | How much space is used and available. | **The main data volume showed about 926 GiB total, 107 GiB used, and 793 GiB available.** |
 | ***System activity*** | A snapshot of processes and system use. | **At the time of my snapshot, 680 processes were listed: 4 running and 676 sleeping.** |
 
+### Task 3.2 — ***Processes***
+
+A process is a program that is currently running. The PID is the number the operating system uses to identify a process; it can change when the process runs again. In my snapshot, I saw background processes named `mdworker_shared` and `com.apple.iCloud`.
 
 ### Task 3.4 — ***Operating-system responsibilities***
 
