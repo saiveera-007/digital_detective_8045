@@ -1,3 +1,15 @@
+# Mission 3 - ***Understand the operating system***
+
+### Task 3.1 — System observations
+
+| **Information explored** | **What it tells me** | **My privacy-safe observation** |
+|---|---|---|
+| ***Operating system*** | Which operating system my computer uses. | **My computer runs macOS, version 27.2.1.** |
+| ***Current account*** | Which account is active in Terminal. | **The command showed my account name; I redacted it.** |
+| ***Storage*** | How much space is used and available. | **The main data volume showed about 926 GiB total, 107 GiB used, and 793 GiB available.** |
+| ***System activity*** | A snapshot of processes and system use. | **At the time of my snapshot, 680 processes were listed: 4 running and 676 sleeping.** |
+
+
 ### Task 3.4 — ***Operating-system responsibilities***
 
 | **Responsibility** | **What it means** | **Example** |
