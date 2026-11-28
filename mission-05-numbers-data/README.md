@@ -96,11 +96,11 @@ Binary represents numbers using 0 and 1, while hexadecimal uses sixteen symbols,
 
 ## 6. Difficulties faced
 
-Calculating the values and conversion took a lot of time , and how places got stuck and not able understand we did I go wrong . 
+Some conversions took time, and at first I got stuck and wasn’t sure where I had made a mistake.
 
 ## 7. How I resolved them
 
-Trying again and agian , also you AI for learning and debugging my mistakes .
+I checked my calculations with Python and got help understanding the steps. Then I corrected my working and checked that the answers matched.
 
 ## 8. Evidence / files
 
