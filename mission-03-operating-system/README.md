@@ -13,6 +13,18 @@
 
 A process is a program that is currently running. The PID is the number the operating system uses to identify a process; it can change when the process runs again. In my snapshot, I saw background processes named `mdworker_shared` and `com.apple.iCloud`.
 
+### Task 3.3 — ***Paths and permissions***
+
+An absolute path starts from the root of the computer and gives the full location. A relative path starts from the current folder. My absolute-path example is `/Users/[redacted]/Desktop/digital_detective_8045/mission-02-terminal`. From the project folder, the relative path to that mission folder is `mission-02-terminal`.
+
+The detailed listing for `original.txt` began with `-rw-r--r--@`. The owner’s permission letters are `rw-`, which means the owner can read and write the file but cannot execute it. I did not change any permissions.
+
+| **Permission** | **Meaning** | **Example** |
+|---|---|---|
+| ***`r` — Read*** | Allows a file’s contents to be read. | **Opening a text file.** |
+| ***`w` — Write*** | Allows a file to be changed. | **Editing a text file.** |
+| ***`x` — Execute*** | Allows a file to be run; on a folder, allows access to it. | **Running a script.** |
+
 ### Task 3.4 — ***Operating-system responsibilities***
 
 | **Responsibility** | **What it means** | **Example** |
